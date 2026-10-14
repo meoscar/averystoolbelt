@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meoscar.github.io/averystoolbelt/sitemap.xml
